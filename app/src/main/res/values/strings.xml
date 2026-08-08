@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wellness</string>
+    <!-- Day 1 -->
+    <string name="day1_title">Day 1</string>
+    <string name="day1_heading">Spend 15 minutes outdoors</string>
+    <string name="day1_description">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Day 2</string>
+    <string name="day2_heading">Drink a full glass of water</string>
+    <string name="day2_description">Drink a full glass of water first thing in the morning to kickstart your hydration and boost your energy levels for the day.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Day 3</string>
+    <string name="day3_heading">Read 10 pages of a book</string>
+    <string name="day3_description">Read 10 pages of a book to expand your mind, learn something new, and take a peaceful break from screen time.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Day 4</string>
+    <string name="day4_heading">Do a 10-minute stretch</string>
+    <string name="day4_description">Do a 10-minute stretch session to relieve muscle tension, improve your posture, and enhance your overall flexibility.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Day 5</string>
+    <string name="day5_heading">Practice daily gratitude</string>
+    <string name="day5_description">Write down three things you are grateful for to cultivate a positive mindset and appreciate the small moments in life.</string>
+</resources>
